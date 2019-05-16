@@ -12,3 +12,8 @@ https://www.coursera.org/specializations/machine-learning-data-analysis
 
   - [Materials](https://github.com/MariyaZamyatina/Coursera-Machine-Learning-and-Data-Analysis-Specialization/tree/master/2.%20Supervised%20Learning/materials)
   - [Homeworks](https://github.com/MariyaZamyatina/Coursera-Machine-Learning-and-Data-Analysis-Specialization/tree/master/2.%20Supervised%20Learning/practice)
+
+### 3. [Поиск структуры в данных](https://www.coursera.org/learn/unsupervised-learning?specialization=machine-learning-data-analysis)
+
+  - [Materials](https://github.com/MariyaZamyatina/Coursera-Machine-Learning-and-Data-Analysis-Specialization/tree/master/3.%20Unsupervised%20Learning/materials)
+  - [Homeworks](https://github.com/MariyaZamyatina/Coursera-Machine-Learning-and-Data-Analysis-Specialization/tree/master/3.%20Unsupervised%20Learning/practice)
