@@ -23,3 +23,9 @@ https://www.coursera.org/specializations/machine-learning-data-analysis
 
   - [Materials](https://github.com/MariyaZamyatina/Coursera-Machine-Learning-and-Data-Analysis-Specialization/tree/master/4.%20Stats%20for%20Data%20Analysis/materials)
   - [Homeworks](https://github.com/MariyaZamyatina/Coursera-Machine-Learning-and-Data-Analysis-Specialization/tree/master/4.%20Stats%20for%20Data%20Analysis/practice)
+
+
+### 5. [Прикладные задачи анализа данных](https://www.coursera.org/learn/data-analysis-applications/home/welcome)
+
+   - [Materials](https://github.com/MariyaZamyatina/Coursera-Machine-Learning-and-Data-Analysis-Specialization/tree/master/5.%20Data%20Analysis%20Applications/materials)
+   - [Homeworks](https://github.com/MariyaZamyatina/Coursera-Machine-Learning-and-Data-Analysis-Specialization/tree/master/5.%20Data%20Analysis%20Applications/practice)
